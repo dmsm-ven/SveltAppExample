@@ -2,3 +2,5 @@ SveltAppExample.Server/obj/
 SveltAppExample.Server/obj
 SveltAppExample.Server/bin/
 SveltAppExample.Server/bin
+SveltAppExample.Server/obj/Debug/net9.0/SveltAppExample.Server.AssemblyInfo.cs
+SveltAppExample.Server/obj/Debug/net9.0/SveltAppExample.Server.AssemblyInfoInputs.cache
