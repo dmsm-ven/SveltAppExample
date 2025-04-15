@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SveltAppExample.Server")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+faec60cba7fe32e2ac6ef24d7fcd148fd4605f60")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+615a5a12460ff78a93fc8289443c3b2279612825")]
 [assembly: System.Reflection.AssemblyProductAttribute("SveltAppExample.Server")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SveltAppExample.Server")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
